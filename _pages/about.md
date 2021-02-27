@@ -24,7 +24,7 @@ I obtained my bachelor of science degree from [Peking University](http://english
 
 
 Broadly speaking, I am interested in the algorithmic perspective of machine learning and various applications of natural language processing. My recent research focuses on the following topics:
-- **Efficient ML**: devise neural network models that can scale at training or inference while retaining state-of-the-art results on target applications ([EMNLP18](https://arxiv.org/pdf/1709.02755.pdf), [ICML17](https://arxiv.org/pdf/1705.09037)); and build novel learning algorithms for model compression ([EMNLP20a](https://www.aclweb.org/anthology/2020.emnlp-main.496.pdf), [EMNLP20b](https://www.aclweb.org/anthology/2020.emnlp-main.494.pdf)).
+- **Efficient ML**: devise neural network models that can scale at training or inference while retaining state-of-the-art results on target applications ([Preprint](https://arxiv.org/pdf/2102.12459), [EMNLP18](https://arxiv.org/pdf/1709.02755.pdf), [ICML17](https://arxiv.org/pdf/1705.09037)); and build novel learning algorithms for model compression ([EMNLP20a](https://www.aclweb.org/anthology/2020.emnlp-main.496.pdf), [EMNLP20b](https://www.aclweb.org/anthology/2020.emnlp-main.494.pdf)).
 
 - **Rationalizing model prediction**: introduce self-explaining models that selects a subset of input as a justification for the models prediction ([EMNLP16](https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf), [ACL20a](https://arxiv.org/pdf/2005.13111.pdf)); or thru interacting with the user ([ACL20b](https://www.aclweb.org/anthology/2020.acl-main.237.pdf)).
 
